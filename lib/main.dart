@@ -7,7 +7,7 @@ import './answer.dart';
 //   runApp(MyApp());
 // }
 
-void main() => runApp(MyApp());
+void main() => runApp(MyApp()
 
 class MyApp extends StatefulWidget {
   @override
